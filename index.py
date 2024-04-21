@@ -1,4 +1,5 @@
 print("Hello World")
-num = input("enter num")
+print("Hello World")
+print("Hello World")
+print("Hello World")
 
-print(num)
